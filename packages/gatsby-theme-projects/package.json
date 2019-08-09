@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-theme-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.13.55",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "dependencies": {
+    "theme-ui": "^0.2.31",
+    "gatsby-plugin-theme-ui": "^0.2.29"
+  }
+}
