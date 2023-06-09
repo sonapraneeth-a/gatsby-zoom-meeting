@@ -9,7 +9,7 @@
     "build": "gatsby build"
   },
   "devDependencies": {
-    "gatsby": "^2.13.55",
+    "gatsby": "^4.25.7",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },
